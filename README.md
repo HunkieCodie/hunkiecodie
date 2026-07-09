@@ -44,4 +44,77 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C293%20hrs%2048%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 81 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13 commits          ██████████████░░░░░░░░░░░   54.17 % 
+🌆 Daytime                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                7 commits           ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Tuesday                  7 commits           ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Wednesday                6 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Thursday                 9 commits           █████████░░░░░░░░░░░░░░░░   37.50 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   32 mins             █████████████████████░░░░   83.42 % 
+Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+
+🔥 Editors: 
+VS Code                  38 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+call-center-backend      37 mins             ████████████████████████░   95.75 % 
+backend                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+
+💻 Operating System: 
+Mac                      38 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HunkieCodie/HunkieCodie/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2026 11:43:45 UTC
 <!--END_SECTION:waka-->
