@@ -75,17 +75,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ███████████████░░░░░░░░░░   59.52 % 
-Todotxt                  55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python                   1 hr 53 mins        ███████████████████░░░░░░   74.61 % 
+Markdown                 25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Todotxt                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -101,5 +101,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 07:25:16 UTC
+ Last Updated on 26/07/2026 07:43:04 UTC
 <!--END_SECTION:waka-->
