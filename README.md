@@ -44,7 +44,7 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C320%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C321%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
 
@@ -56,7 +56,7 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -77,17 +77,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████████████░░░░░░░░   67.61 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Docker                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   54 mins             ████████████████░░░░░░░░░   62.99 % 
+TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,15 +99,14 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 30/07/2026 07:40:14 UTC
+ Last Updated on 31/07/2026 08:05:58 UTC
 <!--END_SECTION:waka-->
