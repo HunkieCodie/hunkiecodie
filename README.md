@@ -44,6 +44,10 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C334%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -56,6 +60,42 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
  > 
 > 🔑 0 Private Repositories 
  > 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Tuesday                  7 commits           ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Wednesday                6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Thursday                 11 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   13 hrs              ███████████████████████░░   91.74 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 10 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      14 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -68,5 +108,5 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 06:13:33 UTC
+ Last Updated on 08/08/2026 05:50:51 UTC
 <!--END_SECTION:waka-->
