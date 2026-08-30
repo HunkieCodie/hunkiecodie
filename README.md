@@ -44,7 +44,7 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C364%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C366%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
 
@@ -52,24 +52,24 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2026
+> 🏆 94 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Tuesday                  7 commits           ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Wednesday                6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Thursday                 11 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
-Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Tuesday                  7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Wednesday                6 commits           █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Thursday                 11 commits          ██████████░░░░░░░░░░░░░░░   39.29 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -77,36 +77,53 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████████░░░░░░░░   66.44 % 
-TypeScript               1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   4 hrs 21 mins       ███████████████░░░░░░░░░░   58.10 % 
+TypeScript               1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+TOML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 19 mins       ████████████████████████░   97.46 % 
+Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 mins (2.6%)
+
+✍️ 0 lines written by AI, 4,061 lines written by hand (0.0% AI-written)
+
+🔤 39,161 Input Tokens, 24,652 Output Tokens
+
+💵 $0.70 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 3 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 291 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Python** 
 
 ```text
-Java                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 29/08/2026 11:35:48 UTC
+ Last Updated on 30/08/2026 10:26:46 UTC
 <!--END_SECTION:waka-->
