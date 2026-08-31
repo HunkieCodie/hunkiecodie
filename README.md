@@ -44,9 +44,9 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C366%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C368%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,26 +77,26 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 21 mins       ███████████████░░░░░░░░░░   58.10 % 
-TypeScript               1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-TOML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python                   8 hrs 28 mins       ███████████████░░░░░░░░░░   61.20 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       ████████████████████████░   97.46 % 
-Copilot CLI              11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+VS Code                  13 hrs 38 mins      █████████████████████████   98.62 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (2.6%)
+⏱ AI Coding Time: 11 mins (1.41%)
 
-✍️ 0 lines written by AI, 4,061 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,597 lines written by hand (0.0% AI-written)
 
 🔤 39,161 Input Tokens, 24,652 Output Tokens
 
@@ -125,5 +125,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 10:26:46 UTC
+ Last Updated on 31/08/2026 11:32:24 UTC
 <!--END_SECTION:waka-->
