@@ -77,40 +77,23 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 1 min         ████████████░░░░░░░░░░░░░   47.34 % 
-TypeScript               3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Python                   7 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.51 % 
+TypeScript               3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 45 mins      █████████████████████████   98.87 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+VS Code                  14 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (1.15%)
-
-✍️ 0 lines written by AI, 5,062 lines written by hand (0.0% AI-written)
-
-🔤 39,161 Input Tokens, 24,652 Output Tokens
-
-💵 $0.70 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -125,5 +108,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 08:58:13 UTC
+ Last Updated on 06/09/2026 09:19:06 UTC
 <!--END_SECTION:waka-->
