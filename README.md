@@ -44,7 +44,7 @@ I've built collections systems for loan recovery, wallet/subscription infrastruc
 ## WakaTime Stats :chart_with_upwards_trend:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C475%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C476%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%204%20mins-blue?style=flat)
 
@@ -77,17 +77,17 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 30 mins       ████████████████████░░░░░   79.75 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   3 hrs 50 mins       ████████████████████░░░░░   78.22 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,5 +108,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 10:23:52 UTC
+ Last Updated on 28/10/2026 11:14:23 UTC
 <!--END_SECTION:waka-->
