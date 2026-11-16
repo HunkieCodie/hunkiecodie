@@ -77,17 +77,17 @@ Sunday                   2 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 34 mins       ███████████████░░░░░░░░░░   58.91 % 
-HTML                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Python                   6 hrs 43 mins       ███████████████░░░░░░░░░░   60.67 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,5 +108,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 12:39:05 UTC
+ Last Updated on 16/11/2026 13:31:51 UTC
 <!--END_SECTION:waka-->
